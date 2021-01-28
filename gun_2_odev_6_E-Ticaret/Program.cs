@@ -6,7 +6,6 @@ namespace gun_2_odev_6_E_Ticaret
     {
         static void Main(string[] args)
         {
-
             int i = 0; 
             product product1 = new product();
             product1.productName = "LG Monitor";

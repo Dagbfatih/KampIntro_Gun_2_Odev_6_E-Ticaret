@@ -42,7 +42,7 @@ namespace ClassIntro
         }
     }
 
-    class Kurs // typedef ve struct gibi
+    class Kurs // typedef ve struct gibi // Özellik(prop) tuttuğumuz class'larda operasyon, operasyon tuttuğumuz class'larda özellik TUTULMAZ.
     {
         public string KursAdi { get; set; }
         public string Egitmen { get; set; }
